@@ -2,3 +2,4 @@ ini adalah file satu
 xxx
 yyy
 aaa
+zzz
